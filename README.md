@@ -1,6 +1,6 @@
 # As Part of Deepmind's Mission to Solve Intelligience, ...
 
 ![](screenshots/example00.png)
-![](screenshots/example01.png)
-![](screenshots/example02.png)
-![](screenshots/example03.png)
+<img src="screenshots/example01.png" width="33%"/>
+<img src="screenshots/example02.png" width="33%"/>
+<img src="screenshots/example03.png" width="33%"/>
