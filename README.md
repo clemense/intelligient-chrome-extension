@@ -1,6 +1,13 @@
 # As Part of Deepmind's Mission to Solve Intelligience, ...
 
+Adds great value to any arXiv abstract! Inspired by https://twitter.com/fhuszar/status/1519997989116432385.
+
+# Installation
+
+Chrome browser extension: https://chrome.google.com/webstore/detail/intelligient-arxiv-abstra/ejecijonnmjffllfblcdbpggcfkhoece
+
+# Examples
 ![](screenshots/example00.png)
-<img src="screenshots/example01.png" width="30%"/>
-<img src="screenshots/example02.png" width="30%"/>
-<img src="screenshots/example03.png" width="30%"/>
+![](screenshots/example01.png)
+![](screenshots/example02.png)
+![](screenshots/example03.png)
